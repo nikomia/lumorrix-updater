@@ -1,0 +1,15 @@
+# Только для списков модов в лаунчерах (Prism и т.п.). NeoForge этот jar как мод не грузит:
+# он уходит в слой сервисов из-за ITransformationService, а в игре виден встроенный мод lumorrix_auth.
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "All Rights Reserved"
+issueTrackerURL = "https://lumorrix.ru"
+
+[[mods]]
+modId = "lumorrix_updater"
+version = "@VERSION@"
+displayName = "Lumorrix"
+description = "Сборка Lumorrix: автообновление модов и вход на сервер по ключу ПК."
+authors = "Lumorrix"
+displayURL = "https://lumorrix.ru"
+logoFile = "lumorrix/icon.png"

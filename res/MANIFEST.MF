@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: ru.lumorrix.updater.Main
+Automatic-Module-Name: ru.lumorrix.updater
+Implementation-Title: Lumorrix Updater
+Implementation-Version: 1.4.1
