@@ -33,7 +33,7 @@ import java.util.stream.Stream;
 import java.util.zip.ZipFile;
 
 final class Updater {
-    static final String VERSION = "1.6.13";
+    static final String VERSION = "1.6.14";
     static final String DEFAULT_URL = "https://lumorrix.ru/modpack/manifest.txt";
     static final String SELF_NAME = "lumorrix-updater.jar";
     private static final int THREADS = 4;
